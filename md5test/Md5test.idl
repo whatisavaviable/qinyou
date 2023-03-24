@@ -1,0 +1,5 @@
+struct  Md5test
+{
+	string data;
+	string md5;
+};

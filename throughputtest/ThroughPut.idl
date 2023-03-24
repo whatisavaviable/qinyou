@@ -1,0 +1,5 @@
+struct ThroughPut
+{
+	short num;
+	string data;
+};
